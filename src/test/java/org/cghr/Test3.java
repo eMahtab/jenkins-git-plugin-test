@@ -6,12 +6,13 @@ package org.cghr;
 import junit.framework.Assert;
 import org.junit.Test;
 
-public class Test1 {
+public class Test3 {
 
     @Test
-    public void testPrintHelloWorld() {
+    public void test3() {
+        String str="Test3";
 
-        Assert.assertEquals(App.getHelloWorld(), "Hello World");
+        Assert.assertEquals(str, "Test3");
 
     }
 
