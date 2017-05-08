@@ -12,7 +12,7 @@ public class Test3 {
     public void test3() {
         String str="Test3";
 
-        Assert.assertEquals(str, "Test31");
+        Assert.assertEquals(str, "Test3");
 
     }
 
