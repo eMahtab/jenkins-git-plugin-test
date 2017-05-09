@@ -6,7 +6,7 @@
 
     <groupId>org.cghr</groupId>
     <artifactId>MavenTestApp</artifactId>
-    <version>SNAPSHOT-${BUILD_NUMBER}</version>
+    <version>SNAPSHOT</version>
 
 
     <dependencies>
